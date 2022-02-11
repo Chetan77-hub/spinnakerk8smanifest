@@ -6,5 +6,5 @@ metadata:
     name: nginx
 spec:
   containers:
-  - name: nginx-cont-7777
+  - name: nginx-cont-77
     image: nginx
